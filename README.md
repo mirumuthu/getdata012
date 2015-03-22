@@ -10,6 +10,6 @@ The code does the following
 - Select only the necessary columns from the readings. 
 - Combine necessary columns, subject and activity all into one data frame called all_data
 - Repeat the read, select and combine steps for train data. So that at the end all_data will contain both test and train data     sets. 
-- Cast it as data table to find the avg for each of the varible by subject and activity. Store average in tidy data table. 
+- Cast it as data table to find the avg for each of the variable by subject and activity. Store average in tidy data table. 
 - Write the table out to tidy.txt file. 
 
