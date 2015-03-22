@@ -56,4 +56,4 @@
 - avg_fBodyGyro_mean_Z
 - avg_fBodyGyro_std_X
 - avg_fBodyGyro_std_Y
-0 avg_fBodyGyro_std_Z
+- avg_fBodyGyro_std_Z
