@@ -12,4 +12,4 @@ The code does the following
 - Repeat the read, select and combine steps for train data. So that at the end all_data will contain both test and train data     sets. 
 - Cast it as data table to find the avg for each of the variable by subject and activity. Store average in tidy data table. 
 - Write the table out to tidy.txt file. 
-
+- The Codebook.md explains the variables involved.
